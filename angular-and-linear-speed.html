@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>angular-and-linear-speed</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main class="App">
+      <h1 class="App__header">Ruch po okręgu</h1>
+      <div class="App__calculator">
+        <span class="calculator__label">Prędkość kątowa i liniowa</span>
+        <form class="input__wrapper">
+          <label class="input">
+            <input class="input__field" id="radius1" type="text" placeholder=" " required>
+            <span class="input__label">
+              r
+              <sub> 1</sub>
+            </span>
+            <span class="input__unit">m</span>
+          </label>
+          <label class="input">
+            <input class="input__field" id="speed1" type="text" placeholder=" " required>
+            <span class="input__label">
+              ω
+              <sub> 1</sub>
+            </span>
+            <span class="input__unit">1/s</span>
+          </label>
+          <label class="input">
+            <input class="input__field" id="radius2" type="text" placeholder=" " required>
+            <span class="input__label">
+              r
+              <sub> 2</sub>
+            </span>
+            <span class="input__unit">m</span>
+          </label>
+          <input type="submit" class="result__button" value="&#9888; Oblicz &#9888;"></input>
+        </form>
+        <div class="formulas">
+          <img class="formulas__img" src="formulas.png" alt="">
+        </div>
+        <div class="result__content">
+          <!-- <div class="result__fraction">
+            <div class="result__nominator">23</div>
+            <div class="result__denominator">12372</div>
+          </div>
+          <div class="result__solution">&nbsp;
+            <span class="result__equal">=</span>
+            &nbsp;12.238
+            <span class="result__unit">km/h</span>
+          </div>
+        </div>
+      --></div>
+      </main>
+      <!-- <script src="script.js"></script> -->
+      <script src="main.js"></script>
+    </body>
+  </html>
