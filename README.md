@@ -1,24 +1,24 @@
 <div align="center" id="top"> 
   
-<h1 align="center">clock-dotted</h1>
-  <a target="_blank" href="https://sevetoo.github.io/clock-dotted/">
-  <img src="./preview.png" alt="clock-dotted" />
+<h1 align="center">Angular And Linear Velocity</h1>
+  <a target="_blank" href="https://sevetoo.github.io/angular-and-linear-velocity/">
+  <img src="./preview.png" alt="angular-and-linear-velocity" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/clock-dotted/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/angular-and-linear-velocity/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/clock-dotted?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/angular-and-linear-velocity?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/clock-dotted?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/angular-and-linear-velocity?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/clock-dotted?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/angular-and-linear-velocity?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/clock-dotted?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/angular-and-linear-velocity?color=56BEB8">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 <!-- Make some description to me -->
 
-It is a simple project wich shows simple clock-dotted
+It is a simple project wich shows simple angular-and-linear-velocity
 
 <!-- ## :sparkles: Features
 :heavy_check_mark: You can set interval between rounds \
@@ -53,12 +53,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/clock-dotted/
+https://sevetoo.github.io/angular-and-linear-velocity/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/clock-dotted/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/angular-and-linear-velocity/" >click link</a> )
 
 ## 😎 Made by
 
